@@ -2,13 +2,14 @@
 
 ### Starting setup
 * You start by producing a ton of civs and a couple infra on key states (Azerbaijain, mainly).
-*  Early focus priorities: 
+* Use Emergency Political Power as soon as it becomes available. 
+* Highest priority advisor is Shaposhnikov because you need to amass huge quantities of army xp, followed by Khrushchev because he gives you more PP which will always be in short supply until about '41. 
+* 
+### Focuses
 * Complete NKVD primacy (finishing before the purge starts will save you a lot of paranoia) 
 * Great Purge (Finishing this ASAP will result in Officers Purged being removed sooner) Military Advisors to Spain (the sooner you do this, the more xp you get) 
 * Finish 2nd 5 year Plan (It's only a net loss of 5% construction speed on civs; I actually continue building civs even after inishing this until I start the 3rd 5YP!) 
 * New Soviet Citizen (+20% construction speed is huge, as is the stability from its prerequisite Stalin Constitution and Collectivist Propaganda)   
-* Use Emergency Political Power as soon as it becomes available. 
-* Highest priority advisor is Shaposhnikov because you need to amass huge quantities of army xp, followed by Khrushchev because he gives you more PP which will always be in short supply until about '41. 
 *  Send attaches to China, Republican Spain, and either Germany (if you're feeling cheesy) or Britain (if you're doing MP or following MP rules)
  
 ### Production
