@@ -4,7 +4,7 @@
 * You start by producing a ton of civs and a couple infra on key states (Azerbaijain, mainly).
 * Use Emergency Political Power as soon as it becomes available. 
 * Highest priority advisor is Shaposhnikov because you need to amass huge quantities of army xp, followed by Khrushchev because he gives you more PP which will always be in short supply until about '41. 
-* 
+ 
 ### Focuses
 * Complete NKVD primacy (finishing before the purge starts will save you a lot of paranoia) 
 * Great Purge (Finishing this ASAP will result in Officers Purged being removed sooner) Military Advisors to Spain (the sooner you do this, the more xp you get) 
