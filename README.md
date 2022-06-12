@@ -29,3 +29,6 @@ This will probably not delay your second army reform, as you get a lot of XP fro
 ### Division setup
  Maintenance and signal companies in every division. Except NKVD and cavalry, which are pretty much useless. 
  you will need to convert at least most of your light inf batallions in the strelk divisyas into heavy inf
+
+### Division example
+![div](https://user-images.githubusercontent.com/46526140/173250667-3e528473-3c45-4ff3-9900-313fa5153f53.jpg)
